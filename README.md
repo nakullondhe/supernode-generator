@@ -1,3 +1,4 @@
+
 #  supernode-generator
 
 ### Description
@@ -8,9 +9,11 @@ Simple Nodejs Template generator for removing repetitive creation of Nodejs proj
 ### With NPM
 
     npm i supernodeman
+    supernodeman
     
 ### 	With Yarn
     yarn add global supernodeman
+    supernodeman
     
 ### 	Templates available
  - Express-Mongoose
