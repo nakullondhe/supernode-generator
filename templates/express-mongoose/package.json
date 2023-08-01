@@ -1,0 +1,26 @@
+{
+  "name": "express-mongoose",
+  "version": "1.0.0",
+  "description": "Boilerplat for basic Express and mongoose server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "boilerplat",
+    "express",
+    "mongoose",
+    "basic"
+  ],
+  "author": "Nakul Londhe",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
