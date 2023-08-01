@@ -17,6 +17,7 @@ Simple Nodejs Template generator for removing repetitive creation of Nodejs proj
     
 ### 	Templates available
  - Express-Mongoose
+ - Express Mongoose Production Beta WIP (Competely usable,exludes custom error and tests)
  - 
 ### 	To-Do
  - Express-Mongoose Production
